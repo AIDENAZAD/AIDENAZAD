@@ -59,62 +59,6 @@ Fully Documented: Comprehensive documentation is provided for all tools.
 
 ---
 
-ماژول‌ها / Modules
-
-1. V7lthronyx_Core: موتور اصلی پروژه که شامل الگوریتم‌های پیشرفته و هسته اصلی ابزارهاست.
-The core engine hosting advanced algorithms and the primary framework for tools.
-
-
-2. V7lthronyx_Sand: محیط شبیه‌سازی برای تحلیل بدافزارها و رفتارهای مخرب.
-A sandbox environment for analyzing malware and malicious behaviors.
-
-
-3. V7lthronyx_APIShield: ابزارهای امنیتی برای بررسی و محافظت از وب‌سرویس‌ها و API‌ها.
-Security tools to evaluate and protect web services and APIs.
-
-
-4. V7lthronyx_Intel: جمع‌آوری و تحلیل اطلاعات تهدید برای پیش‌بینی و جلوگیری از حملات.
-Threat intelligence collection and analysis to predict and prevent attacks.
-
-
-5. V7lthronyx_CloudScan: بررسی امنیت زیرساخت‌های ابری و ماشین‌های مجازی.
-Security assessments for cloud infrastructures and virtual machines.
-
-
-6. V7lthronyx_PX: ابزارهای پس از نفوذ برای ارزیابی عمق دسترسی و استخراج داده‌ها.
-Post-exploitation tools to evaluate access depth and extract data.
-
-
-7. V7lthronyx_AI: تحلیل پیشرفته با استفاده از یادگیری ماشین و هوش مصنوعی.
-Advanced analytics powered by machine learning and artificial intelligence.
-
-
-8. V7lthronyx_PhishSim: شبیه‌سازی حملات فیشینگ برای آموزش کاربران و افزایش آگاهی.
-Phishing attack simulations for user training and awareness improvement.
-
-
-9. V7lthronyx_Responder: مدیریت و پاسخگویی به حوادث سایبری.
-Incident management and cyber incident response.
-
-
-10. V7lthronyx_Dash: مصورسازی داده‌ها و گزارش‌گیری حرفه‌ای.
-Professional reporting and data visualization.
-
-
-11. V7lthronyx_XTools: مجموعه‌ای از ابزارهای امنیتی پیشرفته برای تست‌های خاص.
-A collection of advanced security tools for specialized tests.
-
-
-12. V7lthronyx_Team: ماژولی برای همکاری تیمی و خودکارسازی وظایف امنیتی.
-A module for team collaboration and task automation.
-
-
-13. V7lthronyx_Auth: مدیریت کاربران و کنترل دسترسی برای ابزارهای پروژه.
-User management and access control for the project's tools.
-
-
-
-
 ---
 
 همکاری / Contribution
@@ -130,7 +74,7 @@ All interested developers and experts are invited to collaborate on this project
 
 وب‌سایت / Website: v7lthronyx.xyz
 
-ایمیل / Email: no-reply@v7lthronyx.xyz
+ایمیل / Email: support@v7lthronyx.xyz
 
 شبکه‌های اجتماعی / Social Media: V7lthronyx
 
